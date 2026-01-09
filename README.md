@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# quiz-application
-=======
 # Quiz Application
 
 A premium React-based Quiz Application that tests your knowledge with questions from the OpenTDB API.
@@ -56,4 +53,3 @@ A premium React-based Quiz Application that tests your knowledge with questions 
 
 I chose a **Context-based architecture** to avoid prop-drilling, especially for the Timer and Navigation components which need access to global quiz state.
 The UI follows a **premium dark aesthetic** to feel modern and engaging, moving away from standard Bootstrap/Tailwind defaults.
->>>>>>> 6af3aff (Quiz Application)
